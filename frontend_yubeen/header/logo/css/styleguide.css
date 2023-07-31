@@ -1,0 +1,13 @@
+:root {
+ 
+  --font-size-m: 45px;
+ 
+  --font-family-rowdies: "Rowdies", Helvetica;
+}
+.logo {
+  font-family: var(--font-family-rowdies);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -2.25px;
+}

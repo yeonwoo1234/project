@@ -1,0 +1,12 @@
+/* screen - 283_807 */
+
+.plus {
+  cursor: pointer;
+  height: 40px;
+  transition: all 0.2s ease-out;
+  width: 40px;
+}
+
+.plus:hover {
+  transform: scale(1.1);
+}
