@@ -1,0 +1,12 @@
+/* screen - 283_800 */
+
+.profile-button {
+  cursor: pointer;
+  height: 40px;
+  transition: all 0.2s ease-out;
+  width: 40px;
+}
+
+.profile-button:hover {
+  transform: scale(1.1);
+}

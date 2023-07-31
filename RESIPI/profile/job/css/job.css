@@ -1,0 +1,12 @@
+/* screen - 대학원생 */
+
+.text-1 {
+  color: #000000;
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 24px;
+  width: 183px;
+}

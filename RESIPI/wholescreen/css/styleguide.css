@@ -1,0 +1,57 @@
+:root { 
+  --black: #000000;
+  --fuscous-gray: #535353;
+  --silver-chalice: #b0afaf;
+  --white: #ffffff;
+ 
+  --font-size-45px: 45px;
+  --font-size-l: 17px;
+  --font-size-m: 15px;
+  --font-size-s: 14px;
+  --font-size-xl: 18px;
+  --font-size-xxl: 19px;
+  --font-size-xxxl: 20px;
+  --font-size-xxxxl: 23px;
+ 
+  --font-family-nanum_gothic: "Nanum Gothic", Helvetica;
+  --font-family-rowdies: "Rowdies", Helvetica;
+}
+.logo {
+  font-family: var(--font-family-rowdies);
+  font-size: var(--font-size-45px);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -2.25px;
+}
+
+.nanumgothic-normal-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.nanumgothic-normal-black-23px {
+  color: var(--black);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.nanumgothic-normal-silver-chalice-14px {
+  color: var(--silver-chalice);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.nanumgothic-normal-fuscous-gray-19px {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}

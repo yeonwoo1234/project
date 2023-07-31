@@ -1,0 +1,12 @@
+/* screen - 프로젝트작품 */
+
+.text-1 {
+  color: #9b9b9b;
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: -0.60px;
+  line-height: normal;
+  min-height: 14px;
+  width: 85px;
+}
